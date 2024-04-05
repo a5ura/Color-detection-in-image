@@ -1,5 +1,4 @@
-Color-detection-in-image
+Image Color Detection
 
-
-run the code available in the provided jupyter labs notebook
-for any given image by hovering the mouse on the image you can get the RGB VALUES
+Execute the script found within the supplied Jupyter Notebook to analyze any chosen image.
+By moving your cursor over the image, you will be able to obtain the RGB values.
